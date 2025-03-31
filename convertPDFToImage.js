@@ -1,4 +1,6 @@
 /**
+ * THIS IS A GOOGLE APP SCRIPT FUNCTION
+ *
  * Converts a PDF file stored in Google Drive into an image (PNG or JPEG) and saves the converted image in Google Drive.
  *
  * ### Functionality:
