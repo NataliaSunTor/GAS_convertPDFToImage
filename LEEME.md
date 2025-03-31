@@ -1,4 +1,5 @@
 # Script ConvertirPDFAImagen
+Esta es una función para GOOGLE APP SCRIPT
 
 ## Descripción general
 Este script convierte un archivo PDF almacenado en Google Drive en un formato de imagen (PNG o JPEG) y lo guarda de nuevo en Google Drive.
