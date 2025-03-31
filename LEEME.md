@@ -1,5 +1,6 @@
 # Script ConvertirPDFAImagen
 Esta es una función para GOOGLE APP SCRIPT
+
 Convierte pdfs a imagenes usando solo los recursos de GAS, lo que es útil si no puedes usar librerias externas.
 
 ## Descripción general
