@@ -1,4 +1,5 @@
 # GAS_convertPDFToImage
+This is a function for GOOGLE APP SCRIPT
 Converts pdf's to images using only GAS resources, which is useful if you are unable to use external libraries.
 
 ## Overview
