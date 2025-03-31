@@ -32,9 +32,9 @@ Este script convierte un archivo PDF almacenado en Google Drive en un formato de
 - Se implementa un bloque `try-catch` para capturar y registrar excepciones durante el proceso.
 
 ## Uso
-Llama a la función `convertToImage(idCarpetaImagen, titulo, formatoSalida)` con los parámetros adecuados.
+Llama a la función `convertirPDFAImagen(idCarpetaImagen, titulo, formatoSalida)` con los parámetros adecuados.
 
 Ejemplo:
 ```javascript
-let imageId = convertirPDFToImage("tu-id-de-carpeta", "titulo-del-archivo", "JPEG");
+let imageId = convertirPDFAImagen("tu-id-de-carpeta", "titulo-del-archivo", "JPEG");
 Logger.log("ID de la imagen convertida: " + imageId);
